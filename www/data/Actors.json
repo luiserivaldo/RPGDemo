@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"NormalRPG","classId":1,"equips":[1,1,0,0,0],"faceIndex":0,"faceName":"NormalRPG","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hero","nickname":"","note":"","profile":"The main hero. He's very powerful and probably went\nthrough 6 character arcs."},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"NormalRPG","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"NormalRPG","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rival","nickname":"","note":"","profile":"Quiet and cool. Just as powerful as Hero but with\nless plot armour."},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"NormalRPG","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"NormalRPG","traits":[],"initialLevel":1,"maxLevel":99,"name":"Scholar","nickname":"","note":"","profile":"The smug know-it-all. Complains more than actually\nhelping."},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"NormalRPG","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"NormalRPG","traits":[],"initialLevel":1,"maxLevel":99,"name":"Healer","nickname":"","note":"","profile":"The group's baby. Clumsy at times. Must protect."},
+{"id":5,"battlerName":"","characterIndex":4,"characterName":"NormalRPG","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"NormalRPG","traits":[],"initialLevel":20,"maxLevel":99,"name":"Demon Lord","nickname":"","note":"","profile":"The villain. He wants to conquer the world and\npersonally make the Hero's life miserable."}
+]

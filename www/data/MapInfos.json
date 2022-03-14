@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"DUNGEON_001","order":2,"parentId":3,"scrollX":819,"scrollY":453},
+{"id":2,"expanded":false,"name":"Tavern","order":3,"parentId":3,"scrollX":819,"scrollY":453},
+{"id":3,"expanded":true,"name":"Overworld_01","order":1,"parentId":0,"scrollX":819,"scrollY":453},
+{"id":4,"expanded":true,"name":"Overworld_02","order":4,"parentId":0,"scrollX":819,"scrollY":453}
+]
